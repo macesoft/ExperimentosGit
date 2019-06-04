@@ -1,1 +1,4 @@
-Este es mi primer archivo creado en Git
+===========================================
+= Este es mi primer archivo creado en Git =
+===========================================
+
