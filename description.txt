@@ -1,2 +1,0 @@
-Este es un archivo de descripcion del branch de desarrollo "rama01".
-Por lo tanto, este archivo solo existe en ese branch
